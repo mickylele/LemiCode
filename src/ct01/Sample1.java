@@ -4,7 +4,6 @@ public class Sample1 {
 
 	public static void main(String[] args) {
 
-		// TODO 自動生成されたメソッド・スタブ
 		double num1 = 12.34;
 		int convertedNum1 = (int) num1;
 		System.out.println("入力:" + num1 + "出力:" + convertedNum1);
