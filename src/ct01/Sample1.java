@@ -12,6 +12,12 @@ public class Sample1 {
 		int convertedNum2 = (int) num2;
 		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
 
+		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
+
+		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
+
+		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
+
 	}
 
 }
