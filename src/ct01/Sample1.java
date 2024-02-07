@@ -1,22 +1,22 @@
 package ct01;
 
+/**
+ * 整数変数を宣言し、その変数に値を代入し、その値を出力するプログラムを書いてください。
+ * 
+ * 出力:
+ * 
+ * 整数変数の値を出力します。
+ * 
+ * 例:
+ * 
+ * 出力例: 10
+ * 
+ */
 public class Sample1 {
 
 	public static void main(String[] args) {
-
-		double num1 = 12.34;
-		int convertedNum1 = (int) num1;
-		System.out.println("入力:" + num1 + "出力:" + convertedNum1);
-
-		double num2 = 1.88;
-		int convertedNum2 = (int) num2;
-		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
-
-		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
-
-		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
-
-		System.out.println("入力:" + num2 + "出力:" + convertedNum2);
+		int number = 10;
+		System.out.println(number);
 
 	}
 
