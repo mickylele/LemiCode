@@ -1,4 +1,4 @@
-package ct01;
+package ct03;
 
 import java.util.Scanner;
 
